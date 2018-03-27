@@ -2,7 +2,7 @@
 """
 Created on Sat Mar  13 11:37:00 2018
 
-@author: Power-R7
+@author: plin@augusta.edu
 """
 import numpy as np
 from numpy.linalg import norm as nrm
